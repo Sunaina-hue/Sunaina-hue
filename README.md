@@ -1,23 +1,18 @@
 
-<!-- ═══════════ SUNAINA | FUTURISTIC DEVELOPER ═══════════ -->
+<!-- SUNAINA | 3D FUTURISTIC PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B1A,45:151B3B,100:4935A8&height=240&section=header&text=SUNAINA&fontSize=76&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descSize=19&descColor=8BE9FD&descAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:050816,45:111C42,100:5426A8&text=SUNAINA&fontSize=85&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descSize=20&descColor=67E8F9&descAlignY=63&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2500&pause=900&color=8BE9FD&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe.;Full+Stack+Web+Developer.;Building+Ideas+Into+Reality.;Design.+Develop.+Innovate."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Web+Developer;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Reality"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-151B3B?style=for-the-badge&labelColor=080B1A"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-4935A8?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Sunaina-hue&style=for-the-badge&color=0891B2&label=VISITORS"/>
+<img src="https://img.shields.io/badge/DEVELOPER-FULL%20STACK-111C42?style=for-the-badge&labelColor=050816"/>
+<img src="https://komarev.com/ghpvc/?username=Sunaina-hue&style=for-the-badge&color=5426A8&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -25,69 +20,77 @@
 
 <div align="center">
 
-# ◈ THE DEVELOPER BEHIND THE CODE
-
-### Hello, I'm Sunaina.
+## ◈ 01 — ABOUT ME
 
 </div>
 
-I'm a passionate Full Stack Web Developer who loves creating digital experiences that combine beautiful interfaces with powerful functionality.
+I'm Sunaina, a passionate Full Stack Web Developer who enjoys building modern, functional and visually engaging digital experiences.
 
-- ◇ Building responsive and modern web applications.
-- ◇ Developing backend systems and database functionality.
-- ◇ Exploring creative interactions and animations.
-- ◇ Continuously learning modern development technologies.
+- Building responsive web applications.
+- Developing backend functionality with PHP.
+- Managing databases using MySQL.
+- Creating interactive frontend experiences.
+- Exploring React, Node.js and modern web technologies.
+- Interested in creative animations and UI/UX.
 
 ---
 
 <div align="center">
 
-# ◈ MY DIGITAL TOOLKIT
+## ◈ 02 — TECHNOLOGY UNIVERSE
 
-### FRONTEND
+### FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-### BACKEND & DATABASE
+### BACKEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=php,nodejs&theme=dark" />
 
-### DEVELOPMENT ENVIRONMENT
+### DATABASE & TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" />
 
 </div>
 
 ---
 
-# ◈ SELECTED PROJECTS
+<div align="center">
+
+## ◈ 03 — WHAT I BUILD
+
+</div>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%"/>
+### ✦ FRONTEND
 
-### BITEORA
-
-**Restaurant & Food Ordering Platform**
-
-PHP · MySQL · JavaScript
-
-[View My GitHub](https://github.com/Sunaina-hue)
+Modern interfaces, responsive layouts, interactive elements and creative animations.
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="90%"/>
+### ✦ BACKEND
 
-### CREATIVE WEB
+Server-side functionality, database management, authentication and ordering systems.
 
-**Modern Frontend Experiences**
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-HTML · CSS · JavaScript
+### ✦ FULL STACK
 
-[Explore Repositories](https://github.com/Sunaina-hue?tab=repositories)
+Connecting frontend experiences with backend systems and databases.
+
+</td>
+<td width="50%" align="center">
+
+### ✦ CREATIVE UI
+
+Modern visual layouts, smooth transitions and polished user experiences.
 
 </td>
 </tr>
@@ -97,17 +100,23 @@ HTML · CSS · JavaScript
 
 <div align="center">
 
-# ◈ GITHUB PERFORMANCE
+## ◈ 04 — FEATURED PROJECT
 
-<img width="85%" src="https://github-readme-stats.vercel.app/api?username=Sunaina-hue&show_icons=true&theme=transparent&bg_color=080B1A&title_color=8BE9FD&text_color=C9D1D9&icon_color=9B8AFF&border_color=4935A8&hide_border=false"/>
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:111C42,100:5426A8&text=BITEORA&fontSize=38&fontColor=FFFFFF&fontAlignY=55"/>
 
-<br/><br/>
+### Restaurant & Food Ordering Platform
 
-<img width="85%" src="https://streak-stats.demolab.com?user=Sunaina-hue&theme=transparent&background=080B1A&ring=8BE9FD&fire=9B8AFF&currStreakLabel=8BE9FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7B849C&hide_border=false&border=4935A8"/>
+**PHP · MySQL · JavaScript · HTML · CSS**
 
-<br/><br/>
+- Online food ordering system
+- Shopping cart and checkout
+- Admin dashboard
+- Order management
+- Responsive interface
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sunaina-hue&bg_color=080B1A&color=8BE9FD&line=9B8AFF&point=FFFFFF&area=true&hide_border=true"/>
+<a href="https://github.com/Sunaina-hue?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-5426A8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -115,22 +124,48 @@ HTML · CSS · JavaScript
 
 <div align="center">
 
-# ◈ LET'S CONNECT
+## ◈ 05 — GITHUB STATISTICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sunaina-hue&show_icons=true&theme=tokyonight&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=FFFFFF&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaina-hue&layout=compact&theme=tokyonight&bg_color=050816&title_color=67E8F9&text_color=FFFFFF&hide_border=true"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Sunaina-hue&theme=tokyonight&background=050816&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ 06 — CONTRIBUTION JOURNEY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sunaina-hue&bg_color=050816&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=CODING%20ACTIVITY"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ 07 — LET'S CONNECT
 
 <a href="https://github.com/Sunaina-hue">
-<img src="https://img.shields.io/badge/GITHUB-080B1A?style=for-the-badge&logo=github&logoColor=8BE9FD"/>
+<img src="https://img.shields.io/badge/GITHUB-My%20Profile-111C42?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-151B3B?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br/><br/>
 
-### ✦ Turning imagination into innovation.
+### CODE • CREATE • INNOVATE
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4935A8,50:151B3B,100:080B1A&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:5426A8,50:111C42,100:050816&section=footer"/>
 
 </div>
 
-<!-- ═══════════ END OF PROFILE ═══════════ -->
+<!-- END -->

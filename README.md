@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./Sunaina%20Neon%20Title%20Animation.gif" width="65%" alt="SUNAINA Web Developer Animation" />
+  <img src="./Sunaina%20Neon%20Title%20Animation.gif" width="75%" alt="SUNAINA Animation" />
 </div>

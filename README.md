@@ -1,9 +1,3 @@
 <div align="center">
-  <img
-    src="./sunaina-scatter.gif"
-    width="100%"
-    alt="SUNAINA Scatter Animation"
-    style="height: auto; display: block;"
-  />
+  <img src="./sunaina-horizontal-banner.gif" width="100%" alt="SUNAINA Web Developer Animation" />
 </div>
-

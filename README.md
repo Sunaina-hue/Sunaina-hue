@@ -100,13 +100,21 @@ width="100%" alt="Coding Animation">
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sunaina-hue&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaina-hue&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Sunaina-hue&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+</p>
+
+---
+
 
 ---
 

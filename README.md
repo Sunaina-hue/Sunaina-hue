@@ -1,8 +1,7 @@
 
 <div align="center">
   <img src="./sunaina-scatter.gif"
-       width="70%"
-       height="280"
+       width="85%"
        alt="SUNAINA Scatter Animation" />
 </div>
 

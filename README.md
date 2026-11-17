@@ -1,82 +1,76 @@
-<!-- ================================================= -->
-<!--              SUNAINA - PROFILE README           -->
-<!--          DARK PINK + WHITE AESTHETIC             -->
-<!-- ================================================= -->
+\<!-- =============== SUNAINA HERO =============== -->
 
-<div align="center">
+\<div align="center">
 
-<!-- UNIQUE ORBITAL RINGS HERO -->
-<img src="./images/sunaina-orbit-header.gif" width="100%" alt="SUNAINA orbital rings animated header" />
+\<img src="./images/sunaina-orbit-header.gif" width="100%" alt="SUNAINA pink orbital rings header" />
 
-<h2>✦ WEB DEVELOPER ✦</h2>
+\<h2>WEB DEVELOPER\</h2>
 
-<p>
-  <b>Creating beautiful digital experiences with creativity and code.</b>
-</p>
+\<p>\<i>Designing ideas. Building experiences. Creating with passion.\</i>\</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=19&duration=2800&pause=900&color=E83E8C&center=true&vCenter=true&width=520&lines=Frontend+Developer;Creative+Web+Designer;Building+Ideas+Into+Reality;Always+Learning+Something+New" />
+\<img src="[https://img.shields.io/badge/CREATIVE%20DEVELOPER-B10F59?style=for-the-badge&labelColor=FFF0F7](https://img.shields.io/badge/CREATIVE%20DEVELOPER-B10F59?style=for-the-badge\&labelColor=FFF0F7)" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/CREATIVE%20MIND-B10F59?style=for-the-badge&labelColor=FFF0F7" />
-<img src="https://img.shields.io/badge/WEB%20DEVELOPER-E83E8C?style=for-the-badge&labelColor=FFF0F7" />
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-B10F59?style=for-the-badge&labelColor=FFF0F7" />
-
-</div>
+\</div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+\<!-- =============== ABOUT ME =============== -->
 
-<div align="center">
+\<div align="center">
 
 # ♡ ABOUT ME ♡
 
-<img src="./images/anime-girl.png" width="190" alt="Anime girl decoration" />
+\</div>
 
-### Hello! I'm Sunaina 🌸
+\<table>
+\<tr>
+\<td width="58%" valign="middle">
 
-*An imaginative developer with a passion for beautiful design and creative coding.*
+\<div align="center">
 
-</div>
+### ✨ HELLO, I'M SUNAINA
 
-<table>
-<tr>
-<td width="60%" valign="top">
+\</div>
 
-### ✨ A LITTLE ABOUT ME
+I'm a creative web developer who loves transforming ideas into beautiful and interactive digital experiences.
 
-- 💗 I love designing beautiful websites.
-- 💻 I enjoy turning ideas into real projects.
-- 🎨 Interested in UI/UX and creative animations.
-- 🚀 Exploring modern web technologies.
-- 🌷 Learning, experimenting and improving every day.
+- 🌸 Passionate about web development
+- 🎨 Love creative UI designs and animations
+- 💻 Building responsive websites
+- 🚀 Exploring new technologies
+- 💗 Always learning and improving
 
-### 🌙 MY GOALS
+\<br/>
 
-To become a skilled developer, create memorable digital experiences and keep growing through real-world projects.
+\<div align="center">
 
-</td>
+\<img src="[https://img.shields.io/badge/MY%20JOURNEY-CREATIVITY-E83E8C?style=for-the-badge](https://img.shields.io/badge/MY%20JOURNEY-CREATIVITY-E83E8C?style=for-the-badge)" />
 
-<td width="40%" align="center" valign="middle">
+\</div>
 
-<img src="https://img.shields.io/badge/PASSION-CREATIVITY-B10F59?style=for-the-badge" />
+\</td>
 
-<br/><br/>
+\<td width="42%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/MINDSET-GROWTH-E83E8C?style=for-the-badge" />
+\<img src="./images/anime-girl.png" width="95%" alt="Sunaina anime illustration" />
 
-<br/><br/>
+\<br/>
 
-<img src="https://img.shields.io/badge/GOAL-INNOVATION-B10F59?style=for-the-badge" />
+\<img src="[https://img.shields.io/badge/DREAM-BUILD-](https://img.shields.io/badge/DREAM-BUILD-) B10F59?style=flat-square" />
 
-<br/><br/>
+\</td> \</tr> \</table>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-E83E8C?style=for-the-badge" />
+---
 
-</td>
-</tr>
-</table>
+\<div align="center">
+
+### ✦ A LITTLE MORE ABOUT ME ✦
+
+\<img src="[https://img.shields.io/badge/CREATIVE-THINKER-B10F59?style=for-the-badge](https://img.shields.io/badge/CREATIVE-THINKER-B10F59?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/ALWAYS-LEARNING-E83E8C?style=for-the-badge](https://img.shields.io/badge/ALWAYS-LEARNING-E83E8C?style=for-the-badge)" />
+
+\</div>
+
 
 ---
 

@@ -1,221 +1,169 @@
-<!-- =====================================================
-     SUNAINA | WHITE + DARK PINK PROFILE
-===================================================== -->
 
-<div align="center">
 
-<!-- HERO DECORATION -->
+\<div align="center">
 
-<p>
-  <sub>✧　　　　　♡　　　　　✧　　　　　♡　　　　　✧</sub>
-</p>
+\<img src="[https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=48&duration=3000&pause=1000&color=B10F59&center=true&vCenter=true&width=700&height=100&lines=◯+SUNAINA+◯;♡+SUNAINA+♡](https://readme-typing-svg.demolab.com?font=Georgia\&weight=700\&size=48\&duration=3000\&pause=1000\&color=B10F59\&center=true\&vCenter=true\&width=700\&height=100\&lines=◯+SUNAINA+◯;♡+SUNAINA+♡)" alt="SUNAINA" />
 
-<p>
-  <sub>◯　　◎　　◉　　◎　　◯</sub>
-</p>
+\<h1>🌸 SUNAINA 🌸\</h1>
 
-<h1>
-  <span style="color:#B10F59">SUNAINA</span>
-</h1>
+\<h2>WEB DEVELOPER\</h2>
 
-<p>
-  <sub>◯　　◎　　◉　　◎　　◯</sub>
-</p>
+*Where creativity meets code.*
 
-<h2>W E B &nbsp; D E V E L O P E R</h2>
+\<img src="[https://img.shields.io/badge/CREATIVE-DEVELOPER-B10F59?style=for-the-badge](https://img.shields.io/badge/CREATIVE-DEVELOPER-B10F59?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/DESIGN-WITH%20PASSION-E83E8C?style=for-the-badge](https://img.shields.io/badge/DESIGN-WITH%20PASSION-E83E8C?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/ALWAYS-LEARNING-B10F59?style=for-the-badge](https://img.shields.io/badge/ALWAYS-LEARNING-B10F59?style=for-the-badge)" />
 
-<p><i>Where creativity meets code.</i></p>
+✧ ─────────────── ♡ ─────────────── ✧
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=21&duration=2800&pause=900&color=B10F59&center=true&vCenter=true&width=520&lines=Creative+Web+Developer;Frontend+Enthusiast;Turning+Ideas+Into+Reality;Always+Learning+%26+Creating" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/CREATIVE-DEVELOPER-B10F59?style=for-the-badge&labelColor=FFF0F7" />
-<img src="https://img.shields.io/badge/DESIGN-✦-E83E8C?style=for-the-badge&labelColor=FFF0F7" />
-<img src="https://img.shields.io/badge/CODE-WITH%20PASSION-B10F59?style=for-the-badge&labelColor=FFF0F7" />
-
-<p>♡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ♡</p>
-
-</div>
+\</div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+\<div align="center">
 
-<div align="center">
+## ♡ ABOUT ME ♡
 
-# ♡ ABOUT ME ♡
+*Get to know the creative mind behind the code*
 
-<sub>GET TO KNOW THE CREATIVE MIND BEHIND THE CODE</sub>
+\</div>
 
-</div>
+\<table> \<tr> \<td width="60%" valign="middle" align="center">
 
-<table>
-<tr>
-<td width="62%" valign="middle">
+### 🌷 HELLO, I'M SUNAINA
 
-<div align="center">
+**A CREATIVE WEB DEVELOPER**
 
-### ✨ HELLO, I'M SUNAINA
+I love transforming ideas into beautiful, functional and interactive digital experiences.
 
-<sub>A CREATIVE WEB DEVELOPER</sub>
+♡ **MY INTERESTS**
 
-</div>
+🌸 Frontend Development
 
-I love transforming creative ideas into beautiful, functional and interactive digital experiences.
+🎨 Creative UI/UX Design
 
-**♡ MY INTERESTS**
+💻 Responsive Websites
 
-- 🌸 Frontend Development
-- 🎨 Creative UI/UX Design
-- 💻 Responsive Websites
-- ✨ Modern Web Animations
-- 🚀 Learning New Technologies
+✨ Modern Web Animations
 
-**♡ MY DEVELOPER JOURNEY**
+🚀 Learning New Technologies
 
-I enjoy experimenting with new ideas, improving my skills and building projects that combine creativity with technology.
+\</td> \<td width="40%" align="center">
 
-<div align="center">
+\<img src="[https://api.dicebear.com/9.x/adventurer/svg?seed=Sunaina&backgroundColor=ffe4f1](https://api.dicebear.com/9.x/adventurer/svg?seed=Sunaina\&backgroundColor=ffe4f1)" width="190" alt="Cute illustrated avatar" />
 
-<img src="https://img.shields.io/badge/CREATIVITY-B10F59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GROWTH-E83E8C?style=for-the-badge" />
+**DREAM · CREATE · INSPIRE**
 
-</div>
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img src="./images/anime-girl.png" width="95%" alt="Anime girl illustration" />
-
-<br/>
-
-**♡ DREAM · CREATE · INSPIRE ♡**
-
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- ================= QUICK PROFILE CARDS ================= -->
+\<div align="center">
 
-<div align="center">
+## ✦ MY LITTLE WORLD ✦
 
-# ✦ MY LITTLE WORLD ✦
+\</div>
 
-</div>
+\<table>
+\<tr>
+\<td align="center" width="33%">
 
-<table>
-<tr>
-<td align="center" width="33%">
+\<img src="[https://img.icons8.com/fluency/96/paint-palette.png](https://img.icons8.com/fluency/96/paint-palette.png)" width="65" />
 
-### 🎨
+### 🎨 CREATIVE
 
-**CREATIVE**
+Beautiful ideas and imaginative designs.
 
-<sub>Designing beautiful interfaces</sub>
+\</td>
+\<td align="center" width="33%">
 
-</td>
-<td align="center" width="33%">
+\<img src="[https://img.icons8.com/fluency/96/source-code.png](https://img.icons8.com/fluency/96/source-code.png)" width="65" />
 
-### 💻
+### 💻 DEVELOPER
 
-**DEVELOPER**
+Building websites with code.
 
-<sub>Building with code</sub>
+\</td> \<td align="center" width="33%">
 
-</td>
-<td align="center" width="33%">
+\<img src="[https://img.icons8.com/fluency/96/rocket.png](https://img.icons8.com/fluency/96/rocket.png)" width="65" />
 
-### 🚀
+### 🚀 DREAMER
 
-**DREAMER**
+Learning, growing and creating.
 
-<sub>Growing every day</sub>
-
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- ================= SKILLS ================= -->
+\<div align="center">
 
-<div align="center">
+## ♡ MY TECH STACK ♡
 
-# ♡ MY TECH STACK ♡
+*Tools I use to bring ideas to life*
 
-<sub>TOOLS THAT TURN MY IDEAS INTO REALITY</sub>
+\</div>
 
-</div>
+\<table>
+\<tr>
+\<td align="center" width="50%">
 
-<table>
-<tr>
-<td align="center" width="50%">
+### 🌸 FRONTEND
 
-### FRONTEND
+\<img src="[https://skillicons.dev/icons?i=html,css,js,react&theme=light](https://skillicons.dev/icons?i=html,css,js,react\&theme=light)" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+\</td>
+\<td align="center" width="50%">
 
-<br/><br/>
+### 🌷 BACKEND
 
-<img src="https://img.shields.io/badge/HTML5-B10F59?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-E83E8C?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-B10F59?style=flat-square&logo=javascript&logoColor=white" />
+\<img src="[https://skillicons.dev/icons?i=php,mysql,nodejs&theme=light](https://skillicons.dev/icons?i=php,mysql,nodejs\&theme=light)" />
 
-</td>
-<td align="center" width="50%">
+\</td>
+\</tr>
+\<tr>
+\<td align="center" colspan="2">
 
-### BACKEND
+### 🎀 TOOLS & WORKFLOW
 
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode&theme=light](https://skillicons.dev/icons?i=git,github,vscode\&theme=light)" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PHP-B10F59?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MYSQL-E83E8C?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/NODEJS-B10F59?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### TOOLS & WORKFLOW
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+\<div align="center">
 
-<div align="center">
+## ✨ MY CREATIVE PROJECTS ✨
 
-# ✦ MY CREATIVE PROJECTS ✦
+*Things I've built with passion*
 
-<sub>THINGS I'VE BUILT WITH PASSION</sub>
+\</div>
 
-## 🍽️ BITEORA
+\<table>
+\<tr>
+\<td align="center" colspan="2">
+
+# 🍽️ BITEORA
 
 ### Exceptional Food, Beautifully Served
 
-<img src="./images/biteora-preview.png" width="95%" alt="BITEORA restaurant website screenshot" />
+\<img src="[https://img.shields.io/badge/FEATURED-PROJECT-B10F59?style=for-the-badge](https://img.shields.io/badge/FEATURED-PROJECT-B10F59?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/FULL--STACK-WEBSITE-E83E8C?style=for-the-badge](https://img.shields.io/badge/FULL--STACK-WEBSITE-E83E8C?style=for-the-badge)" />
 
-</div>
+\</td>
+\</tr>
+\<tr>
+\<td width="60%" valign="middle">
 
-<table>
-<tr>
-<td width="65%" valign="top">
+### ♡ ABOUT BITEORA
 
-### ♡ ABOUT THE PROJECT
-
-BITEORA is a restaurant and food-ordering website with a PHP and MySQL backend.
+A restaurant and food-ordering website built with PHP and MySQL.
 
 **FEATURES**
 
@@ -225,117 +173,131 @@ BITEORA is a restaurant and food-ordering website with a PHP and MySQL backend.
 - Checkout and order placement
 - User login and registration
 - Admin dashboard
-- Responsive layout
+- Responsive design
 
 **TECHNOLOGIES**
 
 HTML · CSS · JavaScript · PHP · MySQL
 
-</td>
-<td width="35%" align="center" valign="middle">
+\</td>
+\<td align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/FEATURED-B10F59?style=for-the-badge" />
+\<img src="[https://img.icons8.com/fluency/160/restaurant.png](https://img.icons8.com/fluency/160/restaurant.png)" width="120" />
 
-<br/><br/>
+**FOOD · DESIGN · TECHNOLOGY**
 
-<img src="https://img.shields.io/badge/FULL%20STACK-E83E8C?style=for-the-badge" />
+\</td>
+\</tr>
+\<tr>
+\<td colspan="2" align="center">
 
-<br/><br/>
+\<a href="[https://github.com/Sunaina-hue](https://github.com/Sunaina-hue)">
+\<img src="[https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-B10F59?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-B10F59?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
 
-<a href="https://github.com/Sunaina-hue">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-<div align="center">
-
-# ♡ GITHUB STATISTICS ♡
-
-<sub>MY CODING JOURNEY IN NUMBERS</sub>
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### ✧ PROFILE STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sunaina-hue&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=B10F59&icon_color=E83E8C&text_color=713B56" width="100%" />
-
-</td>
-<td align="center" width="50%">
-
-### ✧ TOP LANGUAGES
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaina-hue&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=B10F59&text_color=713B56" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ✧ CONTRIBUTION STREAK
-
-<img src="https://streak-stats.demolab.com?user=Sunaina-hue&hide_border=true&background=FFF5FA&ring=E83E8C&fire=B10F59&currStreakLabel=B10F59&sideLabels=713B56&dates=9C6680" width="85%" />
-
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- ================= ACTIVITY ================= -->
+\<div align="center">
 
-<div align="center">
+## ♡ GITHUB STATISTICS ♡
 
-# ✧ MY CONTRIBUTION JOURNEY ✧
+*My coding journey in numbers*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunaina-hue&bg_color=fff5fa&color=b10f59&line=e83e8c&point=b10f59&area=true&hide_border=true" width="100%" />
+\</div>
 
-</div>
+\<table>
+\<tr>
+\<td align="center" width="50%">
+
+### 🌸 PROFILE STATS
+
+\<img src="[https://github-readme-stats.vercel.app/api?username=Sunaina-hue&show_icons=true&hide_border=true&bg_color=FFF0F7&title_color=B10F59&icon_color=E83E8C&text_color=713B56](https://github-readme-stats.vercel.app/api?username=Sunaina-hue\&show_icons=true\&hide_border=true\&bg_color=FFF0F7\&title_color=B10F59\&icon_color=E83E8C\&text_color=713B56)" width="100%" />
+
+\</td>
+\<td align="center" width="50%">
+
+### 🎀 TOP LANGUAGES
+
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaina-hue&layout=compact&hide_border=true&bg_color=FFF0F7&title_color=B10F59&text_color=713B56](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunaina-hue\&layout=compact\&hide_border=true\&bg_color=FFF0F7\&title_color=B10F59\&text_color=713B56)" width="100%" />
+
+\</td>
+\</tr>
+\<tr>
+\<td colspan="2" align="center">
+
+### 💗 CONTRIBUTION STREAK
+
+\<img src="[https://streak-stats.demolab.com?user=Sunaina-hue&hide_border=true&background=FFF0F7&ring=E83E8C&fire=B10F59&currStreakLabel=B10F59&sideLabels=713B56&dates=9C6680](https://streak-stats.demolab.com?user=Sunaina-hue\&hide_border=true\&background=FFF0F7\&ring=E83E8C\&fire=B10F59\&currStreakLabel=B10F59\&sideLabels=713B56\&dates=9C6680)" width="85%" />
+
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+\<div align="center">
 
-<div align="center">
+## ✧ MY CONTRIBUTION JOURNEY ✧
 
-# ♡ LET'S CONNECT ♡
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Sunaina-hue&bg_color=fff0f7&color=b10f59&line=e83e8c&point=b10f59&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Sunaina-hue\&bg_color=fff0f7\&color=b10f59\&line=e83e8c\&point=b10f59\&area=true\&hide_border=true)" width="100%" />
 
-<sub>LET'S SHARE IDEAS AND CREATE SOMETHING AMAZING</sub>
+\</div>
 
-<br/><br/>
+---
 
-<a href="https://github.com/Sunaina-hue">
-<img src="https://img.shields.io/badge/GITHUB-B10F59?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+\<div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-E83E8C?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## ♡ LET'S CONNECT ♡
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-B10F59?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+*Let's share ideas and create something amazing!*
 
-<br/><br/>
+\</div>
 
-<img src="./images/fairy-castle.png" width="65%" alt="Fairy castle illustration" />
+\<table>
+\<tr>
+\<td align="center" width="33%">
 
-### ✨ THANK YOU FOR VISITING MY PROFILE ✨
+\<img src="[https://img.icons8.com/fluency/96/github.png](https://img.icons8.com/fluency/96/github.png)" width="55" />
+
+### GITHUB
+
+\<a href="[https://github.com/Sunaina-hue](https://github.com/Sunaina-hue)">Visit Profile\</a>
+
+\</td>
+\<td align="center" width="33%">
+
+\<img src="[https://img.icons8.com/fluency/96/linkedin.png](https://img.icons8.com/fluency/96/linkedin.png)" width="55" />
+
+### LINKEDIN
+
+\<a href="YOUR_LINKEDIN_URL">Connect\</a>
+
+\</td>
+\<td align="center" width="33%">
+
+\<img src="[https://img.icons8.com/fluency/96/gmail.png](https://img.icons8.com/fluency/96/gmail.png)" width="55" />
+
+### EMAIL
+
+\<a href="mailto\:YOUR_EMAIL">Say Hello\</a>
+
+\</td>
+\</tr>
+\</table>
+
+\<div align="center">
+
+✧ ─────────────── ♡ ─────────────── ✧
+
+### 🌸 THANK YOU FOR VISITING MY PROFILE 🌸
 
 **KEEP DREAMING · KEEP CREATING · KEEP CODING**
 
-<p>♡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ♡</p>
+\<img src="[https://img.shields.io/badge/MADE%20WITH-LOVE-B10F59?style=for-the-badge](https://img.shields.io/badge/MADE%20WITH-LOVE-B10F59?style=for-the-badge)" />
 
-</div>
+\</div>
 
-<!-- ================= END OF PROFILE ================= -->

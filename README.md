@@ -298,7 +298,6 @@ HTML · CSS · JavaScript · PHP · MySQL
 </div>
 
 ---
-
 <div align="center">
 
 ## ♡ LET'S CONNECT ♡
@@ -306,6 +305,11 @@ HTML · CSS · JavaScript · PHP · MySQL
 *Have an idea? Let's create something amazing together!*
 
 </div>
+
+<table>
+<tr>
+
+<td width="70%" valign="middle">
 
 <table>
 <tr>
@@ -318,6 +322,7 @@ HTML · CSS · JavaScript · PHP · MySQL
 <a href="https://github.com/Sunaina-hue">VISIT PROFILE ↗</a>
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://img.icons8.com/fluency/96/linkedin.png" width="55" />
@@ -327,6 +332,7 @@ HTML · CSS · JavaScript · PHP · MySQL
 <a href="YOUR_LINKEDIN_URL">CONNECT ↗</a>
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://img.icons8.com/fluency/96/gmail.png" width="55" />
@@ -338,6 +344,18 @@ HTML · CSS · JavaScript · PHP · MySQL
 </td>
 </tr>
 </table>
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="connect-girl.png" width="240" alt="Sunaina anime girl" />
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 

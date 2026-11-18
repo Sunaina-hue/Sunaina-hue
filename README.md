@@ -155,7 +155,7 @@ Always curious. Always creating. Always improving.
 
 <td width="25%" align="center" valign="middle">
 
-<img src="about2-girl.jpg" width="170" alt="Sunaina anime programmer girl" />
+<img src="about2-girl.jpg" width="280" height="420" alt="Sunaina anime programmer girl" />
 
 </td>
 </tr>

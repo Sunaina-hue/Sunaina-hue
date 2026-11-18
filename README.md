@@ -203,14 +203,13 @@ Always curious. Always creating. Always improving.
 
 # 🍽️ BITEORA
 
+
+### Exceptional Food, Beautifully Served
 <div align="center">
 
 <img src="biteora-banner.png" width="100%" alt="BITEORA" />
 
 </div>
-
-### Exceptional Food, Beautifully Served
-
 <img src="https://img.shields.io/badge/FEATURED%20PROJECT-B10F59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP%20%2B%20MYSQL-E83E8C?style=for-the-badge" />
 

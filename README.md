@@ -306,12 +306,12 @@ HTML · CSS · JavaScript · PHP · MySQL
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="70%" valign="middle">
+<td width="55%" valign="middle">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
 
@@ -347,9 +347,9 @@ HTML · CSS · JavaScript · PHP · MySQL
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="connect-girl.png" width="240" alt="Sunaina anime girl" />
+<img src="connect-girl.jpg" width="100%" alt="Sunaina anime girl" />
 
 </td>
 

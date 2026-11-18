@@ -199,17 +199,19 @@ Always curious. Always creating. Always improving.
 <tr>
 <td colspan="2" align="center">
 
+<div align="center">
+
+<img src="biteora-banner.png" width="100%" alt="BITEORA" />
+
+</div>
+
 <img src="https://img.icons8.com/fluency/96/restaurant.png" width="65" />
 
 # 🍽️ BITEORA
 
 
 ### Exceptional Food, Beautifully Served
-<div align="center">
 
-<img src="biteora-banner.png" width="100%" alt="BITEORA" />
-
-</div>
 <img src="https://img.shields.io/badge/FEATURED%20PROJECT-B10F59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP%20%2B%20MYSQL-E83E8C?style=for-the-badge" />
 

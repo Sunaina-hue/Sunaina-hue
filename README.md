@@ -186,11 +186,7 @@ Always curious. Always creating. Always improving.
 
 ---
 
-<div align="center">
 
-<img src="biteora-banner.png" width="100%" alt="BITEORA" />
-
-</div>
 <div align="center">
 
 ## ✧ MY CREATIVE PROJECTS ✧

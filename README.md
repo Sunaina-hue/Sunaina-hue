@@ -121,6 +121,10 @@ Always curious. Always creating. Always improving.
 
 <table>
 <tr>
+<td width="75%" valign="middle">
+
+<table>
+<tr>
 <td align="center" width="50%">
 
 ### 🌸 FRONTEND DEVELOPMENT
@@ -142,6 +146,16 @@ Always curious. Always creating. Always improving.
 ### 🎀 TOOLS & WORKFLOW
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<img src="about2-girl.jpg" width="170" alt="Sunaina anime programmer girl" />
 
 </td>
 </tr>

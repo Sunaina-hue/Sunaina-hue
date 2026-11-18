@@ -54,7 +54,7 @@ Always curious. Always creating. Always improving.
 </td>
 <td width="35%" align="center">
 
-<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Sunaina&backgroundColor=ffe4f1" width="190" alt="Cute illustrated avatar" />
+<img src="about1-girl.png" width="250" alt="Sunaina - Anime Girl Illustration" />
 
 ### SUNAINA
 <sub>CREATIVE WEB DEVELOPER</sub>

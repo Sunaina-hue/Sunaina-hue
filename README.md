@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="hero-sunaina.png" width="100%" alt="Sunaina - Web Developer Portfolio" />
+
+</div>
 
 <div align="center">
 

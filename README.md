@@ -337,7 +337,7 @@ HTML · CSS · JavaScript · PHP · MySQL
 
 ### LINKEDIN
 
-<a href="YOUR_LINKEDIN_URL">CONNECT ↗</a>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sunaina-sibra-b68779433/)">CONNECT ↗</a>
 
 </td>
 
@@ -347,7 +347,7 @@ HTML · CSS · JavaScript · PHP · MySQL
 
 ### EMAIL
 
-<a href="mailto:YOUR_EMAIL">SAY HELLO ↗</a>
+<a href="sunaina1.dev@gmail.com">SAY HELLO ↗</a>
 
 </td>
 </tr>

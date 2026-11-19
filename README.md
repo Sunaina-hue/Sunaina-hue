@@ -337,7 +337,7 @@ HTML · CSS · JavaScript · PHP · MySQL
 
 ### LINKEDIN
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sunaina-sibra-b68779433/)">CONNECT ↗</a>
+<a href="(https://www.linkedin.com/in/sunaina-sibra-b68779433/)">CONNECT ↗</a>
 
 </td>
 

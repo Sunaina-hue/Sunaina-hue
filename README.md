@@ -205,7 +205,7 @@ Always curious. Always creating. Always improving.
 
 </div>
 
-<img src="https://img.icons8.com/fluency/96/restaurant.png" width="65" />
+
 
 # 🍽️ BITEORA
 
